@@ -1,0 +1,5 @@
+SHERLOCK is an inductive learning program I wrote for the CPaT program (Computer Practice and Theory) at The Evergreen State College.
+
+This version uses the Orange library to analyze text files and attempt to guess a single attribute about them. Although I used liberal/conservative political leanings
+as my classifier, in theory the basic program is robust enough that it could be used for something more complex. This code is provided as-is, and you will need to provide
+your own data to run it on.
